@@ -1,5 +1,5 @@
 # Bike-Study
-Examining data regarding a bike share companu using R Programming.
+Examining data regarding a bike share company using R Programming.
 
 install.packages("tidyverse")
 library(tidyverse)
