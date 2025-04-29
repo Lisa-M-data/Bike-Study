@@ -1,6 +1,3 @@
-
-
-
 # Bike-Study
 Examining data regarding a bike share company using R Programming.
 Examining data regarding a bike share company using R Programming language.
